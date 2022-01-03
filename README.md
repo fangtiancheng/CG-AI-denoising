@@ -44,7 +44,7 @@ siggraph19  SBMC论文复现
 This project is a major assignment for the `CS403 Computer Graphics` course of SJTU 21-22 academic year. This tutorial is a reference document of our group project. We mainly realize the following functions:
 
 * In terms of **real-time denosing**, we reproduce and improve the [rdae](https://research.nvidia.com/publication/interactive-reconstruction-monte-carlo-image-sequences-using-recurrent-denoising) of siggraph17
-2. In the aspect of **offline denosing**, we reproduce the article [SBMC](https://github.com/adobe/sbmc) of siggraph19
+* In the aspect of **offline denosing**, we reproduce the article [SBMC](https://github.com/adobe/sbmc) of siggraph19
 
 We have achieved good results in both methods.
 
